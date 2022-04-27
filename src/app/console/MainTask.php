@@ -10,7 +10,7 @@ class MainTask extends Task
 {
     public function mainAction()
     {
-        echo 'Hello Imran!!!' . PHP_EOL;
+        echo 'Hi' . PHP_EOL;
     }
 
     public function addAction(int $first, int $second)
